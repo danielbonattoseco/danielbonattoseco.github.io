@@ -4,13 +4,13 @@
   "data": "data.json",
   "logo": {
     "file": "https://i.ibb.co/dDVsgM8/fgv-logo-0-copy.png",
-    "link": "",
+    "link": "https://github.com/cpdoc/reh",
     "text": "CPDOC"
   },
   "text": {
-    "more": "",
-    "intro": "",
-    "title": "Revista de Estudos Históricos"
+    "more": "Esta rede integra os resultados do projeto \"Historiografia Visual: Análise de Publicações da REH\".",
+    "intro": "Rede de Autoria e Coautoria de Artigos publicados em todas as edições da REH - Revista Estudos Históricos do CPDOC/FGV.",
+    "title": "Revista Estudos Históricos - Rede de Autoria/Coautoria de Artigos"
   },
   "legend": {
     "edgeLabel": "Vínculos",
